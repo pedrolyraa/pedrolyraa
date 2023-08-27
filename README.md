@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedrolyraa&label=Profile%20views&color=610eb4&style=flat" alt="pedrolyraa" /> </p>
 
-- 🔭 I’m currently working on [uTeeth](https://github.com/iamguigasousa/uTeeth---Projeto-Integrador)
+- 🔭 I’m currently working on [uTeeth](https://github.com/iamguigasousa/uTeeth3PI)
 
 - 🌱 I’m currently learning **Android, Flutter, Dart and Kotlin.**
 

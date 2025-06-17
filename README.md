@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedrolyraa&label=Profile%20views&color=610eb4&style=flat" alt="pedrolyraa" /> </p>
 
-- 🔭 I’m currently working on [uTeeth](https://github.com/iamguigasousa/uTeeth3PI)
+- 🔭 I’m currently working on [Adotaí](https://github.com/Adotai/adotai-backend)
 
-- 🌱 I’m currently learning **Android, Flutter, Dart and Kotlin.**
-
-- 👨‍💻 All of my projects are available at [https://pedrolyraa.github.io/Portifolio/](https://pedrolyraa.github.io/Portifolio/)
+- 🌱 I’m currently learning **Docker, N8N, AI Automatization.**
 
 - 📫 How to reach me **pedro.lucena.lyra@gmail.com**
 
-- 📄 Know about my experiences [https://pedrolyraa.github.io/Portifolio/](https://pedrolyraa.github.io/Portifolio/)
+- 📄 Know about my experiences [Portifólio](https://portifolio-pedro-lyra.lovable.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

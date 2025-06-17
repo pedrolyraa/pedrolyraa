@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pedro Lyra</h1>
-<h3 align="center">Currently devoted to become a devoloper</h3>
+<h3 align="center">Currently devoted to become a junior developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedrolyraa&label=Profile%20views&color=610eb4&style=flat" alt="pedrolyraa" /> </p>
 
